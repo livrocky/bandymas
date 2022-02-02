@@ -4,3 +4,8 @@
 4. git commit -m "issaugojimo zinute"
 
 3 + 4 + 2 + 3 + 4 + 2 ...
+
+5. kartojam zingsnius 2-4 kol dirbam
+6. git status (grazina status bukle kurioje esam)
+7. git log --oneline (grazina kiek kokiu comit turim padare)
+8. git checkout <jusu sha kodas / sakos pavadinimas (leidzia pereiti i issaugojimo vieta)
